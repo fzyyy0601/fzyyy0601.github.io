@@ -793,3 +793,15 @@ $link-color: var(--link-color);
     
   }
 }
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+img {
+  max-width: 80%;
+  height: auto;
+}
+.block {
+  margin-bottom: 20px;
+}

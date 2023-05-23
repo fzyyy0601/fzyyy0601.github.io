@@ -1,13 +1,11 @@
 site: fzyyy0601's home page
-title: Zoe's home page
+title: Zoe Feng
 greetings: Hi 👋
 introduction: >-
-  Hi, my name is Ziyue Feng, my family called me Niuniu as my nick name, and my colleages called me Zoe. I am currently a second year graduate
-  student at New York University. 
+  Hi, my name is Zoe Feng, a second year graduate
+  student at New York University major in Computer Science. 
 description: >-
   Welcome! Sit down, grab a cup of tea and let's start!
-description_about: >-
-  Hi, my name is Zoe. I am a full stack developer, a cs student. I like meeing new peopl, working out and making new stuff.
 lang: en-US
 timezone:  Europe/Rome
 repo: https://github.com/fzyyy0601/fzyyy0601.github.io # site repo [optional]
@@ -20,10 +18,10 @@ author:
   bio: just a minimalist, personal blog
   userpicture: 
   username: # general username
-  github: DavideBri # github username
+  github: fzyyy0601 # github username
   twitter: # twitter username
   mastodon: # mastodon profile (ex. mastodon.social/@my_username)
-  linkedin: # linkedin profile
+  linkedin: zoe-feng-52387a213 # linkedin profile
   email: fzy0531@gmail.com # email adress
 
 # Font Settings
